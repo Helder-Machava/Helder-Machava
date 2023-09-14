@@ -20,7 +20,7 @@
            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="php"
             width="50" height="50"/> </a> &nbsp;
    <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="php"
+           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-white.svg" alt="php"
             width="50" height="50"/> </a> &nbsp;
     <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> <img
             src="https://github.com/macbench/macbench/assets/98541716/8b5d485a-276f-4690-a130-2fe430b2e118" alt="php"
