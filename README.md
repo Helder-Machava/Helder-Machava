@@ -4,9 +4,6 @@
  ## Languages and Tecnologies Skills
 
 <p align="left">
-        <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="php"
-            width="50" height="50"/> </a> &nbsp;&nbsp;
            <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="50" height="50"/> </a> &nbsp;&nbsp;
@@ -16,6 +13,9 @@
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="php"
             width="50" height="50"/> </a> &nbsp;
+         <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
+           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="php"
+            width="50" height="50"/> </a> &nbsp;&nbsp;
    <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="php"
             width="50" height="50"/> </a> &nbsp;
