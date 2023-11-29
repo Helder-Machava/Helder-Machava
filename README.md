@@ -4,9 +4,6 @@
  ## Languages and Tecnologies Skills
 
 <p align="left">
-  <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
-           <img src="https://raw.githubusercontent.com/helder-machava/devicon/develop/icons/visualbasic/visualbasic-plain.svg" alt="php"
-            width="50" height="50"/> </a> &nbsp;&nbsp;
         <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="php"
             width="50" height="50"/> </a> &nbsp;&nbsp;
